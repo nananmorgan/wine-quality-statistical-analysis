@@ -25,10 +25,10 @@ UCI Wine Quality dataset (ID: 186), containing physicochemical properties and qu
 Python, pandas, matplotlib, seaborn, scipy, statsmodels, thinkstats2, numpy
 
 ## Repository Contents
-- `Noda-Morgan530TermProject.ipynb` — Full analysis notebook
-- `Noda-Morgan530TermProject.pdf` — Rendered notebook output
-- `Noda-Morgan530FinalTermProject.pptx` — Presentation slides
-- `Noda-Morgan530TermProject_WriteUp.docx` — Project write-up
+- `wine_quality_analysis.ipynb`    — Full analysis notebook
+- `wine_quality_analysis.pdf`      — Rendered notebook output
+- `project_presentation.pptx`      — Presentation slides
+- `project_writeup.docx`           — Project write-up
 - `winequality-red.csv` / `winequality-white.csv` — Source datasets
 
 ## How to Run
